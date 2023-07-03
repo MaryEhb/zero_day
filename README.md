@@ -1,1 +1,1 @@
-Making files from winddows cmd
+Making files from windows cmd
